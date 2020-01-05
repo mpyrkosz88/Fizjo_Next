@@ -2,9 +2,8 @@
 import React, {Component} from 'react';
 import Grid from '@material-ui/core/Grid';
 
-import Layout from '../components/Layout/Layout';
-
 //components
+import Layout from '../components/Layout/Layout';
 import Heading2 from '../components/UI/Headings/Heading2';
 import Heading3 from '../components/UI/Headings/Heading3';
 import Heading4 from '../components/UI/Headings/Heading4';

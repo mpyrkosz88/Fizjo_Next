@@ -1,0 +1,1 @@
+{"ast":null,"code":"var __jsx = React.createElement;\n//libraries\nimport React from 'react'; //styles\n\nimport classes from './ListItem.scss';\n\nconst ListItem = props => __jsx(\"li\", {\n  className: classes.ListItem\n}, props.children);\n\nexport default ListItem;","map":null,"metadata":{},"sourceType":"module"}

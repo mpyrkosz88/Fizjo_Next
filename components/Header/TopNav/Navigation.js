@@ -3,7 +3,7 @@ import classes from './Navigation.scss';
 //components
 import NavItem from '../NavItem/NavItem';
 
-// import HomeIcon from '../../../assets/images/homeIcon.png'
+import HomeIcon from '../../../assets/images/homeIcon.png'
 
 
 const navigation = () => (
@@ -12,18 +12,14 @@ const navigation = () => (
       <NavItem
         link={`/`}
         active={classes.Active}>
-        <img src="" alt="home page"/>
+        <img src={HomeIcon} alt="home page"/>
       </NavItem>   
       <NavItem
         link={`/fala_uderzeniowa`}
         active={classes.Active}>
         Fala uderzeniowa
       </NavItem>
-      <NavItem
-        link={`/masaz_wodny`}
-        active={classes.Active}>
-        Masaż wodny
-      </NavItem>
+
       <NavItem
         link={`/hitop`}
         active={classes.Active}>
@@ -39,11 +35,7 @@ const navigation = () => (
         active={classes.Active}>
        Laser wysokoenergetyczny
       </NavItem>
-      <NavItem
-        link={`/hivamat`}
-        active={classes.Active}>
-       Hivamat
-      </NavItem>
+
       <NavItem
         link={`/cennik`}
         active={classes.Active}>
@@ -59,3 +51,15 @@ const navigation = () => (
 )
 
 export default navigation;
+
+      {/* <NavItem
+        link={`/masaz_wodny`}
+        active={classes.Active}>
+        Masaż wodny
+      </NavItem>
+
+            <NavItem
+        link={`/hivamat`}
+        active={classes.Active}>
+       Hivamat
+      </NavItem> */}

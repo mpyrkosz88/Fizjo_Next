@@ -6,6 +6,16 @@ import data from './data';
 
 import SliderItem from "./SliderItem/SliderItem";
 
+// const data = [
+//   {
+//     "id": 1,
+//     "imgUrl": 'static/images/banner1.jpg',
+//   },
+//   {
+//     "id": 2,
+//     "imgUrl": 'static/images/banner2.jpg',
+//   }, 
+// ]
 
 class Slider extends Component {
   state = {
@@ -38,6 +48,7 @@ class Slider extends Component {
       <section className={classes.Slider}>
         <ul className={classes.SliderList} >
           {data.map((index) => { 
+            console.log(index);
             let background
             if (this.state.number === index.id) {
                 background = true
@@ -47,7 +58,7 @@ class Slider extends Component {
               }
             return (
               <SliderItem 
-                imgUrl={index.imgUrl} 
+                imgUrl={index.imgUrl}
                 key = {index.id}  
                 background = {background}
               />

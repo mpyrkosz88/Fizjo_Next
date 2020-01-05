@@ -1,0 +1,15 @@
+.Laser {
+  ul{
+    margin-left: 4rem;
+  }
+  div {
+    padding-left: 2rem;
+    justify-content: flex-start;
+  }
+  @media (max-width: 599px) {
+    div {
+      padding:0;
+      justify-content: center;
+    }
+  }
+}

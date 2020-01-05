@@ -5,7 +5,7 @@ import AsideNavigation from '../components/Navigation/AsideNavigation/AsideNavig
 import Layout from '../components/Layout/Layout';
 import Home1 from '../components/Home/Home_1/Home_1'
 
-const Homepage = () => {
+const Index = () => {
 
     return (
         <Layout>
@@ -40,4 +40,4 @@ const Homepage = () => {
 }
 
 
-export default Homepage;
+export default Index;

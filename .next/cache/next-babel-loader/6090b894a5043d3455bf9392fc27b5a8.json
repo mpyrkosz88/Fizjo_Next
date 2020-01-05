@@ -1,0 +1,1 @@
+{"ast":null,"code":"var __jsx = React.createElement;\n//libraries\nimport React from 'react'; //styles\n\nimport classes from './Headings.scss';\n\nconst heading4 = props => __jsx(\"h4\", {\n  className: classes.Heading4\n}, props.children);\n\nexport default heading4;","map":null,"metadata":{},"sourceType":"module"}

@@ -1,0 +1,1 @@
+{"ast":null,"code":"var __jsx = React.createElement;\n//libraries\nimport React from 'react'; //styles\n\nimport classes from './Headings.scss';\n\nvar heading2 = function heading2(props) {\n  return __jsx(\"h2\", {\n    className: classes.Heading2\n  }, props.children);\n};\n\nexport default heading2;","map":null,"metadata":{},"sourceType":"module"}
