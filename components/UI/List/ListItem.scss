@@ -1,0 +1,10 @@
+.ListItem{
+    padding: 5px 0;
+    &::before {
+        content: "•"; 
+        color: #9996cd;
+        display: inline-block;
+        width: 1rem;
+        margin-left: -1rem;
+    }
+  }

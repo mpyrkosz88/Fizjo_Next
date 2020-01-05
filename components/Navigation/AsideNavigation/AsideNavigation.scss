@@ -1,0 +1,50 @@
+.Aside {
+  padding: 20px 20px 20px 0;
+  margin-top: 20px;
+    ul {
+      margin-left: 20px;
+      li {
+        list-style-type: circle;
+        margin: 10px 5px;
+        font-size: 1rem;
+        &:first-of-type {
+          font-weight: bold;
+          font-size: 1.2rem;
+          list-style-type: none;
+        }
+      }
+    }
+    a {
+      color: black;
+      &:hover {
+        color: #9996cd;
+      }
+    }
+      .Active {
+       color: #9996cd;
+         &:hover {
+          color:#9996cd;
+          text-decoration: none;
+    }
+  }
+}
+  
+@media (max-width: 599px) {
+  .Aside {
+      margin-top: 0;
+      padding-top: 0;
+    ul {
+      display: flex;
+      flex-flow: row wrap;
+      li {
+        margin: 0; 
+        padding: 5px 10px;
+        list-style-type: none;
+        border-right: 1px solid black;
+        &:last-child{ 
+          border-right: none;
+        }
+      }
+    }
+  }
+}

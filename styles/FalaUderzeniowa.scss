@@ -1,0 +1,29 @@
+.FalaUderzeniowa {
+  ul{
+    max-width: 300px;
+  }
+  .Pics {
+    display: flex;
+    margin-right: 4rem;
+    flex-flow: wrap;
+    div {
+      justify-content: flex-end;
+    }
+    img {
+      max-width: 200px;
+    }
+  }
+  h4{
+    color: black;
+  }
+  @media (max-width: 599px) {
+    .Pics {
+      display: flex;
+      margin-right: 0;
+      flex-flow: nowrap;
+    }
+    ul {
+      margin-left: 0;
+    }
+  }
+}

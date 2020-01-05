@@ -1,0 +1,18 @@
+.Footer {
+    background-color: #EEEEEE;
+    border-top: 1px solid grey;
+    width: 100%;
+    .FooterContainer {
+        margin: 0px auto;
+        max-width: 1024px;
+        padding: 40px;
+    }
+    p {
+        font-size: 1rem;
+        margin: 0;
+    }
+    span {
+        color: black;
+        font-weight: bold;
+    }
+}
