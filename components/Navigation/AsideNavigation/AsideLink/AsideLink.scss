@@ -1,0 +1,14 @@
+.NotActive {
+  color: black;
+  &:hover {
+    color: #9996cd;
+  }
+}
+
+.Active {
+  color: #9996cd;
+    &:hover {
+     color:#9996cd;
+     text-decoration: none;
+}
+}

@@ -7,7 +7,17 @@ module.exports = withPlugins([
     [sass, {
         cssModules: true
     }],
-    [optimizedImages]
-]
+    [optimizedImages],
+],
+{
+    assetPrefix: process.env.BASE_PATH || '',
+  publicRuntimeConfig: {
+    basePath: process.env.BASE_PATH || '',
+  },
+}
+
+// {
+//     assetPrefix: process.env.NODE_ENV === 'production' ? '/{reponame}' : ''
+// }
 )
 

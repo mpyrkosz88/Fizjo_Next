@@ -2,6 +2,8 @@
 import React, {Component} from 'react';
 import classes from "./Slider.scss";
 
+import { withRouter } from 'next/router'
+
 import data from './data';
 
 import SliderItem from "./SliderItem/SliderItem";
@@ -17,11 +19,13 @@ import SliderItem from "./SliderItem/SliderItem";
 //   }, 
 // ]
 
+
 class Slider extends Component {
+ 
   state = {
     'number': 1,
   }
-  
+
   componentDidMount() {
     this.startInterval()
   }
@@ -43,12 +47,10 @@ class Slider extends Component {
 
 
   render() {
-
     return (
       <section className={classes.Slider}>
         <ul className={classes.SliderList} >
           {data.map((index) => { 
-            console.log(index);
             let background
             if (this.state.number === index.id) {
                 background = true
@@ -71,6 +73,5 @@ class Slider extends Component {
     )
   }
 }
-
 
 export default Slider;

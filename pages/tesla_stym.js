@@ -1,7 +1,7 @@
 //libraries
 import React, { Component } from 'react';
 import Grid from '@material-ui/core/Grid';
-import Layout from '../components/Layout/Layout';
+import Head from 'next/head';
 
 //components
 import Heading2 from '../components/UI/Headings/Heading2';
@@ -15,10 +15,15 @@ import ListItem from '../components/UI/List/ListItem';
 import TeslaStymImg1 from '../assets/images/TeslaStym.jpg';
 
 class TeslaStym extends Component {
+
   render() {
     return (
-      <Layout>
-
+      <>
+        <Head>
+          <meta name="Description" content="Tesla Stym. Terapia Polem Magnetycznym. Jak działa głęboka stymulacja elektromagnetyczna?">
+          </meta>
+          <title>Tesla Stym. Terapia Polem Magnetycznym.</title>
+        </Head>
         <main className={classes.TeslaStym}>
           <Grid container justify="space-between">
             <Heading2>Tesla Stym</Heading2>
@@ -41,12 +46,9 @@ class TeslaStym extends Component {
             <Grid item xs={12} sm={6} >
               <Image src={TeslaStymImg1}></Image>
             </Grid>
-
           </Grid>
-
         </main>
-
-      </Layout>
+      </>
     )
   }
 }

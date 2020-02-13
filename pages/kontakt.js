@@ -1,16 +1,20 @@
 //libraries
 import React from 'react';
+import Head from 'next/head';
 
 //components
 import Heading2 from '../components/UI/Headings/Heading2';
 import Heading3 from '../components/UI/Headings/Heading3';
-import Layout from '../components/Layout/Layout';
 
 import classes from '../styles/Kontakt.scss';
 
 const Kontakt = () => (
-  <Layout>
-
+  <>
+    <Head>
+      <meta name="Description" content="Biegunowa, Legnica, Przychodnia, Fizjoterapia Doleczych, kontakt, fala uderzeniowa, masaż wodny hitop tesla stym pole magnetyczne">
+      </meta>
+      <title>Kontakt. Fizjoterapia Legnica. Mgr Arnold Doleczych.</title>
+    </Head>
     <main>
       <section className={classes.Kontakt}>
         <Heading2>Gdzie nas znaleźć</Heading2>
@@ -30,7 +34,7 @@ const Kontakt = () => (
         <p>08:00 - 17:00</p>
       </section>
     </main>
-  </Layout>
+  </>
 )
 export default Kontakt;
 

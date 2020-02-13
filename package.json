@@ -7,24 +7,24 @@
     "dev": "next",
     "build": "next build",
     "start": "next start",
-    "export": "next export"
+    "export": "next build && next export"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/mpyrki/mpyrki.github.io.git"
   },
-  "author": "",
+  "author": "M. Pyrkosz",
   "license": "ISC",
-  "homepage": "https://github.com/mpyrki/",
   "dependencies": {
-    "@material-ui/core": "^4.8.2",
+    "@material-ui/core": "^4.9.0",
     "@zeit/next-sass": "^1.0.1",
     "express": "^4.17.1",
     "material-ui": "^0.20.2",
-    "next": "^9.1.7",
+    "next": "^9.2.1",
     "next-compose-plugins": "^2.2.0",
     "next-optimized-images": "^2.5.4",
-    "node-sass": "^4.13.0",
+    "next-sass": "^1.0.3",
+    "node-sass": "^4.13.1",
     "react": "^16.12.0",
     "react-dom": "^16.12.0"
   }

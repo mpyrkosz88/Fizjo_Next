@@ -4,6 +4,6 @@ import React from 'react';
 //styles
 import classes from './Headings.scss';
 
-const heading3 = (props) => <h3 className={classes.Heading3}>{props.children}</h3>
+const heading3 = (props) => <h2 className={classes.Heading2}>{props.children}</h2>
 
 export default heading3;

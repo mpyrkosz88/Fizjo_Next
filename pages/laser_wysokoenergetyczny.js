@@ -1,8 +1,7 @@
 //libraries
 import React, { Component } from 'react';
 import Grid from '@material-ui/core/Grid';
-
-import Layout from '../components/Layout/Layout';
+import Head from 'next/head';
 
 //components
 import Heading2 from '../components/UI/Headings/Heading2';
@@ -17,8 +16,12 @@ import LaserImg1 from '../assets/images/Laser1.jpg';
 class Laser extends Component {
   render() {
     return (
-      <Layout>
-
+      <>
+        <Head>
+          <meta name="Description" content="Laser wysokoenergetyczny. Rewolucja w terapii laserowej. Ból kręgosłupa rwa kulszowa łokieć tenisisty ">
+          </meta>
+          <title>Laser wysokoenergetyczny. Rewolucja w terapii laserowej.</title>
+        </Head>
         <main className={classes.Laser}>
           <Grid container justify="space-between">
             <Grid item sm={12}>
@@ -41,7 +44,7 @@ class Laser extends Component {
                 <ListItem>Naciągnięcie mięśnia</ListItem>
                 <ListItem>Powieźiowe punkty spustowe, skurcze mięśni</ListItem>
                 <ListItem>Zapalenie stawu kolanowego</ListItem>
-                <ListItem>Zapalaenie kaletki</ListItem>
+                <ListItem>Zapalenie kaletki</ListItem>
                 <ListItem>Trądzik</ListItem>
                 <ListItem>Zmiany skórne</ListItem>
               </ul>
@@ -50,10 +53,8 @@ class Laser extends Component {
               <Image src={LaserImg1}></Image>
             </Grid>
           </Grid>
-
         </main>
-      </Layout>
-
+      </>
     )
   }
 }

@@ -1,7 +1,7 @@
 //libraries
 import React, {Component} from 'react';
 import Grid from '@material-ui/core/Grid';
-import Layout from '../components/Layout/Layout';
+import Head from 'next/head';
 
 //components
 import Heading2 from '../components/UI/Headings/Heading2';
@@ -11,7 +11,12 @@ import ListItem from '../components/UI/List/ListItem';
 class Cennik extends Component {
   render () {
     return (
-      <Layout>
+           <>
+      <Head>
+      <meta name="Description" content="Cennik. Fizjoterapia Legnica. Zabiegi. Kinezyterapia. Mgr Arnold Doleczych">
+      </meta>
+          <title>Cennik. Fizjoterapia Legnica. Mgr Arnold Doleczych</title>
+        </Head>
       <main className={classes.Cennik}>
         <Grid container justify="space-between">
           <Heading2>Cennik</Heading2>      
@@ -78,8 +83,8 @@ class Cennik extends Component {
               </ListItem>
             </ul>
         </Grid>
-      </main>      
-      </Layout>
+      </main>     
+      </> 
     )
   }
 }

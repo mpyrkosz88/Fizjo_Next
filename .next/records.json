@@ -1,0 +1,490 @@
+{
+  "mini-css-extract-plugin node_modules/@zeit/next-css/node_modules/css-loader/index.js??ref--7-1!node_modules/postcss-loader/src/index.js??ref--7-2!node_modules/sass-loader/lib/loader.js??ref--7-3!styles/FalaUderzeniowa.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {
+          "mini-css-extract-plugin": 0
+        },
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "mini-css-extract-plugin node_modules/@zeit/next-css/node_modules/css-loader/index.js??ref--7-1!node_modules/postcss-loader/src/index.js??ref--7-2!node_modules/sass-loader/lib/loader.js??ref--7-3!styles/Hitop.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {
+          "mini-css-extract-plugin": 0
+        },
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "mini-css-extract-plugin node_modules/@zeit/next-css/node_modules/css-loader/index.js??ref--7-1!node_modules/postcss-loader/src/index.js??ref--7-2!node_modules/sass-loader/lib/loader.js??ref--7-3!styles/Hivamat.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {
+          "mini-css-extract-plugin": 0
+        },
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "mini-css-extract-plugin node_modules/@zeit/next-css/node_modules/css-loader/index.js??ref--7-1!node_modules/postcss-loader/src/index.js??ref--7-2!node_modules/sass-loader/lib/loader.js??ref--7-3!styles/Laser.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {
+          "mini-css-extract-plugin": 0
+        },
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "mini-css-extract-plugin node_modules/@zeit/next-css/node_modules/css-loader/index.js??ref--7-1!node_modules/postcss-loader/src/index.js??ref--7-2!node_modules/sass-loader/lib/loader.js??ref--7-3!styles/TeslaStym.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {
+          "mini-css-extract-plugin": 0
+        },
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "mini-css-extract-plugin node_modules/@zeit/next-css/node_modules/css-loader/index.js??ref--7-1!node_modules/postcss-loader/src/index.js??ref--7-2!node_modules/sass-loader/lib/loader.js??ref--7-3!styles/Kontakt.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {
+          "mini-css-extract-plugin": 0
+        },
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "mini-css-extract-plugin node_modules/@zeit/next-css/node_modules/css-loader/index.js??ref--7-1!node_modules/postcss-loader/src/index.js??ref--7-2!node_modules/sass-loader/lib/loader.js??ref--7-3!styles/Cennik.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {
+          "mini-css-extract-plugin": 0
+        },
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "mini-css-extract-plugin node_modules/@zeit/next-css/node_modules/css-loader/index.js??ref--7-1!node_modules/postcss-loader/src/index.js??ref--7-2!node_modules/sass-loader/lib/loader.js??ref--7-3!styles/MasazWodny.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {
+          "mini-css-extract-plugin": 0
+        },
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "mini-css-extract-plugin node_modules/@zeit/next-css/node_modules/css-loader/index.js??ref--7-1!node_modules/postcss-loader/src/index.js??ref--7-2!node_modules/sass-loader/lib/loader.js??ref--7-3!components/Navigation/AsideNavigation/AsideNavigation.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {
+          "mini-css-extract-plugin": 0
+        },
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "mini-css-extract-plugin node_modules/@zeit/next-css/node_modules/css-loader/index.js??ref--7-1!node_modules/postcss-loader/src/index.js??ref--7-2!node_modules/sass-loader/lib/loader.js??ref--7-3!components/Navigation/AsideNavigation/AsideLink/AsideLink.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {
+          "mini-css-extract-plugin": 0
+        },
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "mini-css-extract-plugin node_modules/@zeit/next-css/node_modules/css-loader/index.js??ref--7-1!node_modules/postcss-loader/src/index.js??ref--7-2!node_modules/sass-loader/lib/loader.js??ref--7-3!components/UI/Image/Image.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {
+          "mini-css-extract-plugin": 0
+        },
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "mini-css-extract-plugin node_modules/@zeit/next-css/node_modules/css-loader/index.js??ref--7-1!node_modules/postcss-loader/src/index.js??ref--7-2!node_modules/sass-loader/lib/loader.js??ref--7-3!components/UI/List/ListItem.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {
+          "mini-css-extract-plugin": 0
+        },
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "mini-css-extract-plugin node_modules/@zeit/next-css/node_modules/css-loader/index.js??ref--7-1!node_modules/postcss-loader/src/index.js??ref--7-2!node_modules/sass-loader/lib/loader.js??ref--7-3!styles/reset.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {
+          "mini-css-extract-plugin": 0
+        },
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "mini-css-extract-plugin node_modules/@zeit/next-css/node_modules/css-loader/index.js??ref--7-1!node_modules/postcss-loader/src/index.js??ref--7-2!node_modules/sass-loader/lib/loader.js??ref--7-3!components/Layout/Layout.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {
+          "mini-css-extract-plugin": 0
+        },
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "mini-css-extract-plugin node_modules/@zeit/next-css/node_modules/css-loader/index.js??ref--7-1!node_modules/postcss-loader/src/index.js??ref--7-2!node_modules/sass-loader/lib/loader.js??ref--7-3!components/UI/Headings/Headings.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {
+          "mini-css-extract-plugin": 0
+        },
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "mini-css-extract-plugin node_modules/@zeit/next-css/node_modules/css-loader/index.js??ref--7-1!node_modules/postcss-loader/src/index.js??ref--7-2!node_modules/sass-loader/lib/loader.js??ref--7-3!components/Home/Home_1/Home_1.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {
+          "mini-css-extract-plugin": 0
+        },
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "mini-css-extract-plugin node_modules/@zeit/next-css/node_modules/css-loader/index.js??ref--7-1!node_modules/postcss-loader/src/index.js??ref--7-2!node_modules/sass-loader/lib/loader.js??ref--7-3!components/Slider/Slider.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {
+          "mini-css-extract-plugin": 0
+        },
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "mini-css-extract-plugin node_modules/@zeit/next-css/node_modules/css-loader/index.js??ref--7-1!node_modules/postcss-loader/src/index.js??ref--7-2!node_modules/sass-loader/lib/loader.js??ref--7-3!components/Footer/Footer.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {
+          "mini-css-extract-plugin": 0
+        },
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "mini-css-extract-plugin node_modules/@zeit/next-css/node_modules/css-loader/index.js??ref--7-1!node_modules/postcss-loader/src/index.js??ref--7-2!node_modules/sass-loader/lib/loader.js??ref--7-3!components/Slider/SliderItem/SliderItem.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {
+          "mini-css-extract-plugin": 0
+        },
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "mini-css-extract-plugin node_modules/@zeit/next-css/node_modules/css-loader/index.js??ref--7-1!node_modules/postcss-loader/src/index.js??ref--7-2!node_modules/sass-loader/lib/loader.js??ref--7-3!components/Navigation/NavMobile/NavMobile.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {
+          "mini-css-extract-plugin": 0
+        },
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "mini-css-extract-plugin node_modules/@zeit/next-css/node_modules/css-loader/index.js??ref--7-1!node_modules/postcss-loader/src/index.js??ref--7-2!node_modules/sass-loader/lib/loader.js??ref--7-3!components/Navigation/TopNav/Navigation.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {
+          "mini-css-extract-plugin": 0
+        },
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "mini-css-extract-plugin node_modules/@zeit/next-css/node_modules/css-loader/index.js??ref--7-1!node_modules/postcss-loader/src/index.js??ref--7-2!node_modules/sass-loader/lib/loader.js??ref--7-3!components/Navigation/NavBtn/NavBtn.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {
+          "mini-css-extract-plugin": 0
+        },
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "mini-css-extract-plugin node_modules/@zeit/next-css/node_modules/css-loader/index.js??ref--7-1!node_modules/postcss-loader/src/index.js??ref--7-2!node_modules/sass-loader/lib/loader.js??ref--7-3!components/Navigation/NavItem/NavItem.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {
+          "mini-css-extract-plugin": 0
+        },
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "modules": {
+    "byIdentifier": {
+      "css node_modules/@zeit/next-css/node_modules/css-loader/index.js??ref--7-1!node_modules/postcss-loader/src/index.js??ref--7-2!node_modules/sass-loader/lib/loader.js??ref--7-3!components/Layout/Layout.scss 0": 0,
+      "css node_modules/@zeit/next-css/node_modules/css-loader/index.js??ref--7-1!node_modules/postcss-loader/src/index.js??ref--7-2!node_modules/sass-loader/lib/loader.js??ref--7-3!styles/reset.scss 0": 1,
+      "css node_modules/@zeit/next-css/node_modules/css-loader/index.js??ref--7-1!node_modules/postcss-loader/src/index.js??ref--7-2!node_modules/sass-loader/lib/loader.js??ref--7-3!styles/reset.scss 1": 2,
+      "css node_modules/@zeit/next-css/node_modules/css-loader/index.js??ref--7-1!node_modules/postcss-loader/src/index.js??ref--7-2!node_modules/sass-loader/lib/loader.js??ref--7-3!components/Slider/Slider.scss 0": 3,
+      "css node_modules/@zeit/next-css/node_modules/css-loader/index.js??ref--7-1!node_modules/postcss-loader/src/index.js??ref--7-2!node_modules/sass-loader/lib/loader.js??ref--7-3!components/Slider/SliderItem/SliderItem.scss 0": 4,
+      "css node_modules/@zeit/next-css/node_modules/css-loader/index.js??ref--7-1!node_modules/postcss-loader/src/index.js??ref--7-2!node_modules/sass-loader/lib/loader.js??ref--7-3!components/Navigation/TopNav/Navigation.scss 0": 5,
+      "css node_modules/@zeit/next-css/node_modules/css-loader/index.js??ref--7-1!node_modules/postcss-loader/src/index.js??ref--7-2!node_modules/sass-loader/lib/loader.js??ref--7-3!components/Navigation/NavItem/NavItem.scss 0": 6,
+      "css node_modules/@zeit/next-css/node_modules/css-loader/index.js??ref--7-1!node_modules/postcss-loader/src/index.js??ref--7-2!node_modules/sass-loader/lib/loader.js??ref--7-3!components/UI/Headings/Headings.scss 0": 7,
+      "css node_modules/@zeit/next-css/node_modules/css-loader/index.js??ref--7-1!node_modules/postcss-loader/src/index.js??ref--7-2!node_modules/sass-loader/lib/loader.js??ref--7-3!components/Navigation/NavMobile/NavMobile.scss 0": 8,
+      "css node_modules/@zeit/next-css/node_modules/css-loader/index.js??ref--7-1!node_modules/postcss-loader/src/index.js??ref--7-2!node_modules/sass-loader/lib/loader.js??ref--7-3!components/Navigation/NavBtn/NavBtn.scss 0": 9,
+      "css node_modules/@zeit/next-css/node_modules/css-loader/index.js??ref--7-1!node_modules/postcss-loader/src/index.js??ref--7-2!node_modules/sass-loader/lib/loader.js??ref--7-3!components/Footer/Footer.scss 0": 10,
+      "css node_modules/@zeit/next-css/node_modules/css-loader/index.js??ref--7-1!node_modules/postcss-loader/src/index.js??ref--7-2!node_modules/sass-loader/lib/loader.js??ref--7-3!styles/Cennik.scss 0": 11,
+      "css node_modules/@zeit/next-css/node_modules/css-loader/index.js??ref--7-1!node_modules/postcss-loader/src/index.js??ref--7-2!node_modules/sass-loader/lib/loader.js??ref--7-3!components/UI/List/ListItem.scss 0": 12,
+      "css node_modules/@zeit/next-css/node_modules/css-loader/index.js??ref--7-1!node_modules/postcss-loader/src/index.js??ref--7-2!node_modules/sass-loader/lib/loader.js??ref--7-3!components/UI/Image/Image.scss 0": 13,
+      "css node_modules/@zeit/next-css/node_modules/css-loader/index.js??ref--7-1!node_modules/postcss-loader/src/index.js??ref--7-2!node_modules/sass-loader/lib/loader.js??ref--7-3!styles/FalaUderzeniowa.scss 0": 14,
+      "css node_modules/@zeit/next-css/node_modules/css-loader/index.js??ref--7-1!node_modules/postcss-loader/src/index.js??ref--7-2!node_modules/sass-loader/lib/loader.js??ref--7-3!styles/Hitop.scss 0": 15,
+      "css node_modules/@zeit/next-css/node_modules/css-loader/index.js??ref--7-1!node_modules/postcss-loader/src/index.js??ref--7-2!node_modules/sass-loader/lib/loader.js??ref--7-3!styles/Hivamat.scss 0": 16,
+      "css node_modules/@zeit/next-css/node_modules/css-loader/index.js??ref--7-1!node_modules/postcss-loader/src/index.js??ref--7-2!node_modules/sass-loader/lib/loader.js??ref--7-3!components/Navigation/AsideNavigation/AsideLink/AsideLink.scss 0": 17,
+      "css node_modules/@zeit/next-css/node_modules/css-loader/index.js??ref--7-1!node_modules/postcss-loader/src/index.js??ref--7-2!node_modules/sass-loader/lib/loader.js??ref--7-3!components/Navigation/AsideNavigation/AsideNavigation.scss 0": 18,
+      "css node_modules/@zeit/next-css/node_modules/css-loader/index.js??ref--7-1!node_modules/postcss-loader/src/index.js??ref--7-2!node_modules/sass-loader/lib/loader.js??ref--7-3!components/Home/Home_1/Home_1.scss 0": 19,
+      "css node_modules/@zeit/next-css/node_modules/css-loader/index.js??ref--7-1!node_modules/postcss-loader/src/index.js??ref--7-2!node_modules/sass-loader/lib/loader.js??ref--7-3!styles/Kontakt.scss 0": 20,
+      "css node_modules/@zeit/next-css/node_modules/css-loader/index.js??ref--7-1!node_modules/postcss-loader/src/index.js??ref--7-2!node_modules/sass-loader/lib/loader.js??ref--7-3!styles/Laser.scss 0": 21,
+      "css node_modules/@zeit/next-css/node_modules/css-loader/index.js??ref--7-1!node_modules/postcss-loader/src/index.js??ref--7-2!node_modules/sass-loader/lib/loader.js??ref--7-3!styles/MasazWodny.scss 0": 22,
+      "css node_modules/@zeit/next-css/node_modules/css-loader/index.js??ref--7-1!node_modules/postcss-loader/src/index.js??ref--7-2!node_modules/sass-loader/lib/loader.js??ref--7-3!styles/TeslaStym.scss 0": 23
+    },
+    "usedIds": {
+      "0": 0,
+      "1": 1,
+      "2": 2,
+      "3": 3,
+      "4": 4,
+      "5": 5,
+      "6": 6,
+      "7": 7,
+      "8": 8,
+      "9": 9,
+      "10": 10,
+      "11": 11,
+      "12": 12,
+      "13": 13,
+      "14": 14,
+      "15": 15,
+      "16": 16,
+      "17": 17,
+      "18": 18,
+      "19": 19,
+      "20": 20,
+      "21": 21,
+      "22": 22,
+      "23": 23
+    }
+  },
+  "chunks": {
+    "byName": {
+      "static/runtime/webpack.js": 0,
+      "commons": 1,
+      "styles": 2,
+      "static/runtime/main.js": 3,
+      "static/runtime/polyfills.js": 4,
+      "static\\OD_hXfdxAxXew1J2-YVnf\\pages\\_app.js": 5,
+      "static\\OD_hXfdxAxXew1J2-YVnf\\pages\\_error.js": 6,
+      "static\\OD_hXfdxAxXew1J2-YVnf\\pages\\cennik.js": 7,
+      "static\\OD_hXfdxAxXew1J2-YVnf\\pages\\fala_uderzeniowa.js": 8,
+      "static\\OD_hXfdxAxXew1J2-YVnf\\pages\\hitop.js": 9,
+      "static\\OD_hXfdxAxXew1J2-YVnf\\pages\\hivamat.js": 10,
+      "static\\OD_hXfdxAxXew1J2-YVnf\\pages\\home_2.js": 11,
+      "static\\OD_hXfdxAxXew1J2-YVnf\\pages\\home_3.js": 12,
+      "static\\OD_hXfdxAxXew1J2-YVnf\\pages\\index.js": 13,
+      "static\\OD_hXfdxAxXew1J2-YVnf\\pages\\kontakt.js": 14,
+      "static\\OD_hXfdxAxXew1J2-YVnf\\pages\\laser_wysokoenergetyczny.js": 15,
+      "static\\OD_hXfdxAxXew1J2-YVnf\\pages\\masaz_wodny.js": 16,
+      "static\\OD_hXfdxAxXew1J2-YVnf\\pages\\tesla_stym.js": 17
+    },
+    "bySource": {},
+    "usedIds": [
+      0,
+      1,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ]
+  }
+}

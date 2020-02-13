@@ -1,7 +1,7 @@
 //libraries
 import React, { Component } from 'react';
 import Grid from '@material-ui/core/Grid';
-import Layout from '../components/Layout/Layout';
+import Head from 'next/head';
 
 //components
 import Heading2 from '../components/UI/Headings/Heading2';
@@ -16,8 +16,12 @@ import HitopImg from '../assets/images/Hitop.jpg';
 class Hitop extends Component {
   render() {
     return (
-      <Layout>
-
+      <>
+      <Head>
+      <meta name="Description" content="Hitop. TERAPIA ENERGOTONOWA. Elektroterapia, Łokieć tenisisty, Bóle pourazowe i pooperacyjne">
+      </meta>
+          <title>Hitop. High Tone Power Therapy. Terapia energotonowa</title>
+        </Head>
         <main className={classes.Hitop}>
           <Grid container justify="space-between">
             <Heading2>Hitop High Tone Power Therapy</Heading2>
@@ -25,6 +29,7 @@ class Hitop extends Component {
             <Image src={HitopImg} />
             <p>Standardowa elektroterapia pobudza nerwy i mięśnie, natomiast głównym celem terapii energotonowej jest bezpośrednie działanie na metaboliz komórek, a różnice widoczne są w działaiu, technologii i praktycznym użyciu.</p>
             <Heading3>Wskazania</Heading3>
+            <Grid>
             <ul>
               <ListItem>Zespół bólowy kręgosłupa lędźwiowego, szyjnego, piersiowego</ListItem>
               <ListItem>Łokieć tenisisty</ListItem>
@@ -34,11 +39,10 @@ class Hitop extends Component {
               <ListItem>Bóle pourazowe i pooperacyjne</ListItem>
               <ListItem>Stres fizyczny, psychiczny i stany wyczerpania</ListItem>
             </ul>
+            </Grid>
           </Grid>
-
         </main>
-      </Layout>
-
+        </>
     )
   }
 }

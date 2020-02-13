@@ -1,48 +1,118 @@
 {
-  "devFiles": [
-    "static/development/dll/dll_4b8bef20edde04f98d3f.js",
-    "static/development/dll/dll_4b8bef20edde04f98d3f.js.map"
-  ],
+  "devFiles": [],
   "pages": {
     "/": [
-      "static/runtime/webpack.js",
-      "static/css/styles.chunk.css",
-      "static/chunks/styles.js",
-      "static/runtime/main.js"
+      "static/runtime/webpack-9369c5c69dbf6d4912cb.js",
+      "static/css/commons.638165db.chunk.css",
+      "static/chunks/commons.fc45d0e9e4ef4c9e695c.js",
+      "static/css/styles.0cb9555a.chunk.css",
+      "static/chunks/styles.a5c55df7e0ddebb991f2.js",
+      "static/runtime/main-b15f856be82481a24430.js"
     ],
     "/_app": [
-      "static/runtime/webpack.js",
-      "static/runtime/main.js"
+      "static/runtime/webpack-9369c5c69dbf6d4912cb.js",
+      "static/css/commons.638165db.chunk.css",
+      "static/chunks/commons.fc45d0e9e4ef4c9e695c.js",
+      "static/css/styles.0cb9555a.chunk.css",
+      "static/chunks/styles.a5c55df7e0ddebb991f2.js",
+      "static/runtime/main-b15f856be82481a24430.js"
     ],
     "/_error": [
-      "static/runtime/webpack.js",
-      "static/runtime/main.js"
+      "static/runtime/webpack-9369c5c69dbf6d4912cb.js",
+      "static/css/commons.638165db.chunk.css",
+      "static/chunks/commons.fc45d0e9e4ef4c9e695c.js",
+      "static/runtime/main-b15f856be82481a24430.js"
     ],
     "/_polyfills": [
-      "static/runtime/polyfills.js",
-      "static/runtime/polyfills.js.map"
+      "static/runtime/polyfills-27b2a4aa2f2829b60554.js"
     ],
     "/cennik": [
-      "static/runtime/webpack.js",
-      "static/css/styles.chunk.css",
-      "static/chunks/styles.js",
-      "static/runtime/main.js"
+      "static/runtime/webpack-9369c5c69dbf6d4912cb.js",
+      "static/css/commons.638165db.chunk.css",
+      "static/chunks/commons.fc45d0e9e4ef4c9e695c.js",
+      "static/css/styles.0cb9555a.chunk.css",
+      "static/chunks/styles.a5c55df7e0ddebb991f2.js",
+      "static/runtime/main-b15f856be82481a24430.js"
     ],
     "/fala_uderzeniowa": [
-      "static/runtime/webpack.js",
-      "static/css/styles.chunk.css",
-      "static/chunks/styles.js",
-      "static/runtime/main.js"
+      "static/runtime/webpack-9369c5c69dbf6d4912cb.js",
+      "static/css/commons.638165db.chunk.css",
+      "static/chunks/commons.fc45d0e9e4ef4c9e695c.js",
+      "static/css/styles.0cb9555a.chunk.css",
+      "static/chunks/styles.a5c55df7e0ddebb991f2.js",
+      "static/runtime/main-b15f856be82481a24430.js"
+    ],
+    "/hitop": [
+      "static/runtime/webpack-9369c5c69dbf6d4912cb.js",
+      "static/css/commons.638165db.chunk.css",
+      "static/chunks/commons.fc45d0e9e4ef4c9e695c.js",
+      "static/css/styles.0cb9555a.chunk.css",
+      "static/chunks/styles.a5c55df7e0ddebb991f2.js",
+      "static/runtime/main-b15f856be82481a24430.js"
+    ],
+    "/hivamat": [
+      "static/runtime/webpack-9369c5c69dbf6d4912cb.js",
+      "static/css/commons.638165db.chunk.css",
+      "static/chunks/commons.fc45d0e9e4ef4c9e695c.js",
+      "static/css/styles.0cb9555a.chunk.css",
+      "static/chunks/styles.a5c55df7e0ddebb991f2.js",
+      "static/runtime/main-b15f856be82481a24430.js"
+    ],
+    "/home_2": [
+      "static/runtime/webpack-9369c5c69dbf6d4912cb.js",
+      "static/css/commons.638165db.chunk.css",
+      "static/chunks/commons.fc45d0e9e4ef4c9e695c.js",
+      "static/css/styles.0cb9555a.chunk.css",
+      "static/chunks/styles.a5c55df7e0ddebb991f2.js",
+      "static/runtime/main-b15f856be82481a24430.js"
+    ],
+    "/home_3": [
+      "static/runtime/webpack-9369c5c69dbf6d4912cb.js",
+      "static/css/commons.638165db.chunk.css",
+      "static/chunks/commons.fc45d0e9e4ef4c9e695c.js",
+      "static/css/styles.0cb9555a.chunk.css",
+      "static/chunks/styles.a5c55df7e0ddebb991f2.js",
+      "static/runtime/main-b15f856be82481a24430.js"
     ],
     "/index": [
-      "static/runtime/webpack.js",
-      "static/css/styles.chunk.css",
-      "static/chunks/styles.js",
-      "static/runtime/main.js"
+      "static/runtime/webpack-9369c5c69dbf6d4912cb.js",
+      "static/css/commons.638165db.chunk.css",
+      "static/chunks/commons.fc45d0e9e4ef4c9e695c.js",
+      "static/css/styles.0cb9555a.chunk.css",
+      "static/chunks/styles.a5c55df7e0ddebb991f2.js",
+      "static/runtime/main-b15f856be82481a24430.js"
     ],
-    "/next/dist/pages/_error": [
-      "static/runtime/webpack.js",
-      "static/runtime/main.js"
+    "/kontakt": [
+      "static/runtime/webpack-9369c5c69dbf6d4912cb.js",
+      "static/css/commons.638165db.chunk.css",
+      "static/chunks/commons.fc45d0e9e4ef4c9e695c.js",
+      "static/css/styles.0cb9555a.chunk.css",
+      "static/chunks/styles.a5c55df7e0ddebb991f2.js",
+      "static/runtime/main-b15f856be82481a24430.js"
+    ],
+    "/laser_wysokoenergetyczny": [
+      "static/runtime/webpack-9369c5c69dbf6d4912cb.js",
+      "static/css/commons.638165db.chunk.css",
+      "static/chunks/commons.fc45d0e9e4ef4c9e695c.js",
+      "static/css/styles.0cb9555a.chunk.css",
+      "static/chunks/styles.a5c55df7e0ddebb991f2.js",
+      "static/runtime/main-b15f856be82481a24430.js"
+    ],
+    "/masaz_wodny": [
+      "static/runtime/webpack-9369c5c69dbf6d4912cb.js",
+      "static/css/commons.638165db.chunk.css",
+      "static/chunks/commons.fc45d0e9e4ef4c9e695c.js",
+      "static/css/styles.0cb9555a.chunk.css",
+      "static/chunks/styles.a5c55df7e0ddebb991f2.js",
+      "static/runtime/main-b15f856be82481a24430.js"
+    ],
+    "/tesla_stym": [
+      "static/runtime/webpack-9369c5c69dbf6d4912cb.js",
+      "static/css/commons.638165db.chunk.css",
+      "static/chunks/commons.fc45d0e9e4ef4c9e695c.js",
+      "static/css/styles.0cb9555a.chunk.css",
+      "static/chunks/styles.a5c55df7e0ddebb991f2.js",
+      "static/runtime/main-b15f856be82481a24430.js"
     ]
   }
 }

@@ -1,0 +1,29 @@
+.Navigation {
+  background-color: #D5D4E6;
+  img{
+    height: 2.4rem;
+    filter: invert(5%) drop-shadow(1px 1px 1px black);
+    &:hover {
+      filter: invert(0) drop-shadow(1px 1px 1px black);
+    }
+  }
+  .NavigationMenu {
+    align-items: center;
+    display: flex;
+    li {
+      align-items: center;
+      border-right: 1px solid #efefef;
+      display: flex;
+      width: 100%;
+      &:last-child {
+        border-right: none;
+      }
+    }
+  }
+
+  @media (max-width: 768px) {
+    .NavigationMenu {
+      display: none;
+    }
+  }
+}

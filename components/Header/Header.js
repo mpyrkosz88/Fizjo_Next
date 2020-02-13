@@ -2,17 +2,18 @@
 import React, {Component} from 'react';
 
 //components
-import Navigation from './TopNav/Navigation';
-import Heading1 from '../UI/Headings/Heading1'
-// import NavMobile from '../NavMobile/NavMobile';
+import Navigation from '../Navigation/TopNav/Navigation';
+import MainHeading from '../UI/Headings/MainHeading'
+import NavMobile from '../Navigation/NavMobile/NavMobile';
 
 class Header extends Component {
 
   render () {
     return (
       <header>
-        <Heading1>Prywatny Gabinet Masażu i Fizjoterapii</Heading1>
+        <MainHeading>Prywatny Gabinet Masażu i Fizjoterapii</MainHeading>
         <Navigation />  
+        <NavMobile />
       </header>
     )
   }

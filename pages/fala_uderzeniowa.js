@@ -1,9 +1,9 @@
 //libraries
 import React, {Component} from 'react';
 import Grid from '@material-ui/core/Grid';
+import Head from 'next/head';
 
 //components
-import Layout from '../components/Layout/Layout';
 import Heading2 from '../components/UI/Headings/Heading2';
 import Heading3 from '../components/UI/Headings/Heading3';
 import Heading4 from '../components/UI/Headings/Heading4';
@@ -19,7 +19,12 @@ import FalaImg4 from '../assets/images/fala4.jpg';
 class FalaUderzeniowa extends Component {
   render () {
     return (
-      <Layout>
+      <>
+      <Head>
+      <meta name="Description" content="Fala uderzeniowa. Walka z bólem. Jak działa fala uderzeniowa? Łokieć tenisisty golfisty, zapalenie przyczepów mięśniowyc">
+      </meta>
+          <title>Fala uderzeniowa. Skuteczna walka z bólem narządów ruchu</title>
+        </Head>
       <main className={classes.FalaUderzeniowa}>
         <Grid container justify="space-between">
           <Grid item sm={12}>
@@ -36,7 +41,7 @@ class FalaUderzeniowa extends Component {
               <Image src={FalaImg4} />
             </div>
             </Grid>
-          <Grid item xs={12} sm={6} >
+          <Grid item xs={12} sm={6}>
             <ul>
               <ListItem>Ostroga piętowa</ListItem>
               <ListItem>Łokieć tenisisty i golfisty</ListItem>
@@ -52,7 +57,7 @@ class FalaUderzeniowa extends Component {
           </Grid>
         </Grid>
       </main> 
-      </Layout>
+      </>
     )
   }
 }

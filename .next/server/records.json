@@ -1,0 +1,75 @@
+{
+  "modules": {
+    "byIdentifier": {
+      "multi private-next-pages/_app.js": 0,
+      "multi private-next-pages/cennik.js": 1,
+      "multi private-next-pages/fala_uderzeniowa.js": 2,
+      "multi private-next-pages/hitop.js": 3,
+      "multi private-next-pages/hivamat.js": 4,
+      "multi private-next-pages/home_2.js": 5,
+      "multi private-next-pages/home_3.js": 6,
+      "multi private-next-pages/index.js": 7,
+      "multi private-next-pages/kontakt.js": 8,
+      "multi private-next-pages/laser_wysokoenergetyczny.js": 9,
+      "multi private-next-pages/masaz_wodny.js": 10,
+      "multi private-next-pages/tesla_stym.js": 11,
+      "multi next/dist/pages/_error": 12,
+      "multi next/dist/pages/_document": 13
+    },
+    "usedIds": {
+      "0": 0,
+      "1": 1,
+      "2": 2,
+      "3": 3,
+      "4": 4,
+      "5": 5,
+      "6": 6,
+      "7": 7,
+      "8": 8,
+      "9": 9,
+      "10": 10,
+      "11": 11,
+      "12": 12,
+      "13": 13
+    }
+  },
+  "chunks": {
+    "byName": {
+      "init-server.js": 0,
+      "on-error-server.js": 1,
+      "static\\OD_hXfdxAxXew1J2-YVnf\\pages\\_app.js": 2,
+      "static\\OD_hXfdxAxXew1J2-YVnf\\pages\\_document.js": 3,
+      "static\\OD_hXfdxAxXew1J2-YVnf\\pages\\_error.js": 4,
+      "static\\OD_hXfdxAxXew1J2-YVnf\\pages\\cennik.js": 5,
+      "static\\OD_hXfdxAxXew1J2-YVnf\\pages\\fala_uderzeniowa.js": 6,
+      "static\\OD_hXfdxAxXew1J2-YVnf\\pages\\hitop.js": 7,
+      "static\\OD_hXfdxAxXew1J2-YVnf\\pages\\hivamat.js": 8,
+      "static\\OD_hXfdxAxXew1J2-YVnf\\pages\\home_2.js": 9,
+      "static\\OD_hXfdxAxXew1J2-YVnf\\pages\\home_3.js": 10,
+      "static\\OD_hXfdxAxXew1J2-YVnf\\pages\\index.js": 11,
+      "static\\OD_hXfdxAxXew1J2-YVnf\\pages\\kontakt.js": 12,
+      "static\\OD_hXfdxAxXew1J2-YVnf\\pages\\laser_wysokoenergetyczny.js": 13,
+      "static\\OD_hXfdxAxXew1J2-YVnf\\pages\\masaz_wodny.js": 14,
+      "static\\OD_hXfdxAxXew1J2-YVnf\\pages\\tesla_stym.js": 15
+    },
+    "bySource": {},
+    "usedIds": [
+      0,
+      1,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ]
+  }
+}
