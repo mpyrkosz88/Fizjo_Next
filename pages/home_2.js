@@ -13,27 +13,33 @@ const Homepage2 = () => {
         <meta name="Description" content="Leczone schorzenia, ból pleców kręgosłupa, dyskopatia, zwyrodnienie stawów, kontuzje sportowe, stany pooperacyjne ">
         </meta>
             <title>Leczone schorzenia. Gabinet Fizjoterapii w Legnicy ul. Biegunowa. </title>
-          </Head>
+            <link rel="canonical" href="http://www.doleczychfizjoterapia.pl/home_2" />
+        </Head>
             <main>
                 <Grid container justify="space-between">
                     <Grid item sm={3}>
-                        <AsideNavigation>
-                            <li>
-                                <AsideLink scroll={false} href="/" >
-                                    O nas
-                                </AsideLink>
-                            </li>
-                            <li>
-                                <AsideLink scroll={false} href="/home_2">
-                                    Leczone schorzenia
-                                </AsideLink>
-                            </li>
-                            <li>
-                                <AsideLink scroll={false} href="/home_3" >
-                                    Wykonywane zabiegi
-                                </AsideLink>
-                            </li>
-                        </AsideNavigation>
+                    <AsideNavigation>
+                    <li>
+                        <AsideLink scroll={false} href="/">
+                            Aktualności
+                        </AsideLink>
+                    </li>
+                    <li>
+                        <AsideLink scroll={false} href="/home_1">
+                            O nas
+                        </AsideLink>
+                    </li>
+                    <li>
+                        <AsideLink scroll={false} href="/home_2">
+                            Leczone schorzenia
+                        </AsideLink>
+                    </li>
+                    <li>
+                        <AsideLink scroll={false} href="/home_3" >
+                            Wykonywane zabiegi
+                        </AsideLink>
+                    </li>
+                </AsideNavigation>
                     </Grid>
                     <Grid item sm={9}>
                         <Home2 />

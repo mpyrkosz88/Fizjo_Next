@@ -5,17 +5,14 @@ import Head from 'next/head';
 
 import AsideLink from '../components/Navigation/AsideNavigation/AsideLink/AsideLink';
 import AsideNavigation from '../components/Navigation/AsideNavigation/AsideNavigation';
-import News from '../components/Home/News/News'
+import Home1 from '../components/Home/Home_1/Home_1'
 
-class Index extends Component {
+class HomePage1 extends Component {
     render() {
         return (
             <>
                 <Head>
-                <meta name="Description" content="Doleczych Fizjoterapia Legnica. Vanquish modelowanie sylwestki. Fizjoterapia, Fizykoterapia, Masaż, Fala uderzeniowa, Masaż wodny, Hitop, Hivamat, Tesla stym">
-                </meta>
-                <title>Aktualności. Vanquish - Modelowanie sylwetki</title>
-                    <link rel="canonical" href="http://www.doleczychfizjoterapia.pl/" />
+                    <link rel="canonical" href="http://www.doleczychfizjoterapia.pl/home_1" />
                 </Head>
                 <main>
                     <Grid container justify="space-between">
@@ -44,7 +41,7 @@ class Index extends Component {
                             </AsideNavigation>
                         </Grid>
                         <Grid item sm={9}>
-                            <News />
+                            <Home1 />
                         </Grid>
                     </Grid>
                 </main>
@@ -52,4 +49,4 @@ class Index extends Component {
         )
     }
 }
-export default Index;
+export default HomePage1;

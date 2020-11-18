@@ -16,6 +16,7 @@ class Cennik extends Component {
       <meta name="Description" content="Cennik. Fizjoterapia Legnica. Zabiegi. Kinezyterapia. Mgr Arnold Doleczych">
       </meta>
           <title>Cennik. Fizjoterapia Legnica. Mgr Arnold Doleczych</title>
+          <link rel="canonical" href="http://www.doleczychfizjoterapia.pl/cennik" />
         </Head>
       <main className={classes.Cennik}>
         <Grid container justify="space-between">

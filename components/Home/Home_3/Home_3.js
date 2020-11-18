@@ -9,9 +9,14 @@ import ListItem from '../../UI/List/ListItem';
 const Home_3 = () => (
   <section>
     <Heading2>Wykonywane zabiegi</Heading2>
+    <Heading4>Modelowanie sylwetki:</Heading4>
+    <ul>
+        <ListItem>Redukcja tkanki tłuszczowej metodą Vanquish</ListItem>
+    </ul>
     <Heading4>Fizykoterapia:</Heading4>
     <ul>
         <ListItem>Fala uderzeniowa</ListItem>
+        <ListItem>Skupiona fala uderzeniowa</ListItem>
         <ListItem>Głęboka elektromagnetostymulacja (FMS)</ListItem>
         <ListItem>Laser wysokoenergetyczny</ListItem>
         <ListItem>Terapia energotonowa (HI-TOP)</ListItem>

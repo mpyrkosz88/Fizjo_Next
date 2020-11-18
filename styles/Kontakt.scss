@@ -1,5 +1,5 @@
 .Kontakt {
-  h3 {
+  h1, h2, h3 {
     text-align: left;
   }
  p{
@@ -23,5 +23,13 @@
       padding: 1rem 0;
     }
   }
+ }
+ .Phone_container {
+   display: flex;
+  margin: 2rem auto;
+
+   p{
+    margin: auto 0;
+   }
  }
 }

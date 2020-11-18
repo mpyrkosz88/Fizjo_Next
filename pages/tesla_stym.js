@@ -22,6 +22,7 @@ class TeslaStym extends Component {
         <Head>
           <meta name="Description" content="Tesla Stym. Terapia Polem Magnetycznym. Jak działa głęboka stymulacja elektromagnetyczna?">
           </meta>
+          <link rel="canonical" href="http://www.doleczychfizjoterapia.pl/tesla_stym" />
           <title>Tesla Stym. Terapia Polem Magnetycznym.</title>
         </Head>
         <main className={classes.TeslaStym}>
@@ -44,7 +45,7 @@ class TeslaStym extends Component {
               </ul>
             </Grid>
             <Grid item xs={12} sm={6} >
-              <Image src={TeslaStymImg1}></Image>
+              <Image src={TeslaStymImg1} alt="TeslaStym"></Image>
             </Grid>
           </Grid>
         </main>

@@ -21,6 +21,7 @@ class Laser extends Component {
           <meta name="Description" content="Laser wysokoenergetyczny. Rewolucja w terapii laserowej. Ból kręgosłupa rwa kulszowa łokieć tenisisty ">
           </meta>
           <title>Laser wysokoenergetyczny. Rewolucja w terapii laserowej.</title>
+          <link rel="canonical" href="http://www.doleczychfizjoterapia.pl/laser_wysokoenergetyczny" />
         </Head>
         <main className={classes.Laser}>
           <Grid container justify="space-between">
@@ -50,7 +51,7 @@ class Laser extends Component {
               </ul>
             </Grid>
             <Grid item xs={12} sm={6} >
-              <Image src={LaserImg1}></Image>
+              <Image src={LaserImg1} alt="Laser1"></Image>
             </Grid>
           </Grid>
         </main>

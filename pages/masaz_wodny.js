@@ -21,6 +21,7 @@ class Velus extends Component {
       <meta name="Description" content="VelusJet. Suchy masaż wodny. Strefowy masaż membranowy. Masaż karku, masaż mięśni.">
       </meta>
           <title>VelusJet. Suchy masaż wodny. Strefowy masaż membranowy</title>
+          <link rel="canonical" href="http://www.doleczychfizjoterapia.pl/masaz_wodny" />
         </Head>
       <main className={classes.MasazWodny}>
         <Grid container justify="space-between">
@@ -32,7 +33,7 @@ class Velus extends Component {
           <p>
             Różnorodność typów masażu pozwala pacjentom osiągnąć najwyższy możliwy poziom dostosowania terapii do indywidualnych potrzeb.
             </p>
-          <Image src={VelusImg} />
+          <Image src={VelusImg} alt="VelusJet"/>
           <Grid item xs={12} sm={6} >
             <Heading3>Wpływ VelusJet na ustrój</Heading3>
             <ul>

@@ -13,6 +13,7 @@ const Kontakt = () => (
     <Head>
       <meta name="Description" content="Biegunowa, Legnica, Przychodnia, Fizjoterapia Doleczych, kontakt, fala uderzeniowa, masaż wodny hitop tesla stym pole magnetyczne">
       </meta>
+      <link rel="canonical" href="http://www.doleczychfizjoterapia.pl/kontakt" />
       <title>Kontakt. Fizjoterapia Legnica. Mgr Arnold Doleczych.</title>
     </Head>
     <main>
@@ -27,11 +28,23 @@ const Kontakt = () => (
           <iframe src="https://www.google.com/maps/embed?pb=!4v1531848857663!6m8!1m7!1s6FO3aC7P90xPBti0DLJD6A!2m2!1d51.20259534323887!2d16.1883175430986!3f139.64925652167702!4f-2.0789817158071173!5f3.1700262894070796"></iframe>
         </div>
         <Heading3>Rejestracja telefoniczna:</Heading3>
-        <p>609 687 320</p>
-        {/* <hr/> */}
-        <p>604 923 379</p>
+        <div className={classes.Phone_container}>
+          <i className="fas fa-phone fa-2x"></i><p>(+48) 609 687 320 - Magister Arnold Doleczych</p>
+        </div>
+        <div className={classes.Phone_container}>
+          <i className="fas fa-phone fa-2x"></i><p>(+48) 604 923 379 - Fizjoterapeuta Michał Doleczych </p>
+        </div>
+        <div className={classes.Phone_container}>
+          <i className="fas fa-phone fa-2x"></i><p>(+48) 535 070 283 - Fizjoterapeuta Katarzyna Doleczych </p>
+        </div>
+
         <Heading3>Godziny otwarcia:</Heading3>
-        <p>08:00 - 17:00</p>
+        <div className={classes.Phone_container}>
+          <i className="fas fa-clock fa-2x"></i><p>Poniedziałek-Piątek: 08:00 - 17:00</p>
+        </div>
+        <div className={classes.Phone_container}>
+          <i className="fas fa-clock fa-2x"></i><p>Sobota-Niedziela: Nieczynne</p>
+        </div>
       </section>
     </main>
   </>

@@ -1,17 +1,8 @@
 .FalaUderzeniowa {
-  ul{
-    max-width: 300px;
-  }
   .Pics {
     display: flex;
     margin-right: 4rem;
     flex-flow: wrap;
-    div {
-      justify-content: flex-end;
-    }
-    img {
-      max-width: 200px;
-    }
   }
   h4{
     color: black;
@@ -25,5 +16,9 @@
     ul {
       margin-left: 0;
     }
+  }
+  .Index {
+    color: #9996cd;
+    vertical-align: super;
   }
 }

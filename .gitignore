@@ -12,6 +12,7 @@
 /config
 /public
 /.vscode
+/.next
 
 # misc
 .DS_Store

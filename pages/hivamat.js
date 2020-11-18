@@ -20,13 +20,14 @@ class Hivamat extends Component {
         <Head>
           <meta name="Description" content="Hivamat. Oscylacja głęboka. Uszkodzenia neurologiczne. Gojenie ran">
           </meta>
+          <link rel="canonical" href="http://www.doleczychfizjoterapia.pl/hivamat" />
           <title>Hivamat. Oscylacja głęboka</title>
         </Head>
         <main className={classes.Hivamat}>
           <Grid container justify="space-between">
             <Heading2>Hivamat 200 </Heading2>
             <Heading3>Zabiegi z wykorzystaniem oscylacji głębokiej</Heading3>
-            <Image src={HivamatImg} />
+            <Image src={HivamatImg} alt="Hivamat"/>
             <p>
               Oscylacja głęboka jest unikalną, opatentowaną metodą terapeutyczną. Jej specyficzny charakter pozwala na wytwarzanie w tkankach biologiczne efekty oscylacji wykorzystujących elektrostatyczne przyciąganie i odpychanie.
             </p>
